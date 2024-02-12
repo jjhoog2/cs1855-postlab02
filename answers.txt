@@ -1,0 +1,5 @@
+﻿Q1: The print_vector function and the specific error is line 48
+Q2: The while statement did not have i < in it, so the while loop ran forever
+Q3: The increment operator was not implemented on i. I made it i++
+Q4: the for loop ran off the array, and it managed to find memory with a really big number
+ 
